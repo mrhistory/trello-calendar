@@ -1,5 +1,5 @@
 {
-"url": "https://localhost:4000",
+"url": "https://trello-calendar-12stone.herokuapp.com",
 "trello": {
   "token": {
     "name": "Calendar for Trello",
