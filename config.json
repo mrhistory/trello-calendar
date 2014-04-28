@@ -13,7 +13,7 @@
     "ga": ""
 },
 "redis": {
-    "host": "redis://rediscloud:nhFgIVb6EIEUwAKw@pub-redis-10480.us-east-1-2.1.ec2.garantiadata.com",
+    "host": "pub-redis-10480.us-east-1-2.1.ec2.garantiadata.com",
     "port": "10480",
     "pass": "nhFgIVb6EIEUwAKw"
 }

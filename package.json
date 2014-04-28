@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/francois2metz/trello-calendar.git"
+    "url": "git://github.com/mrhistory/trello-calendar.git"
   },
   "dependencies": {
       "bootstrap"      : "https://github.com/twitter/bootstrap/tarball/v2.1.1",
