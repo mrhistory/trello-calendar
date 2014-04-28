@@ -24,6 +24,6 @@ if (config.analytics.dattss) {
     });
 }
 
-app.listen(argv.p, function() {
+app.listen(process.env.PORT || argv.p, function() {
     console.log('listening on http://localhost:'+ process.env.PORT || argv.p)
 });
