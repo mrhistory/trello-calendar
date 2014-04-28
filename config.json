@@ -1,0 +1,20 @@
+{
+"url": "https://trello-calendar-12stone.herokuapp.com",
+"trello": {
+  "token": {
+    "name": "Calendar for Trello",
+    "expiration": "never",
+    "scope": "read,write"
+  },
+  "key": "539c843d042b32a940c9d8b63549b3d5",
+  "secret": "a6b4be356bc3b3a442236cb38f787a64f506c190ff9cfc4b391bda6b7e798edd"
+},
+"analytics": {
+    "ga": ""
+},
+"redis": {
+    "host": "redis://rediscloud:nhFgIVb6EIEUwAKw@pub-redis-10480.us-east-1-2.1.ec2.garantiadata.com",
+    "port": "10480",
+    "pass": "nhFgIVb6EIEUwAKw"
+}
+}
